@@ -6,7 +6,7 @@ Software developer from Alexandria, based in Assiut, Egypt. Fourth-year IT stude
 
 - **Mobile development:** Flutter & Dart, Kotlin (Android)
 - **Web development:** HTML & CSS
-- **Programming languages:** Dart, Kotlin, C++
+- **Programming languages:** Dart, Kotlin, C++, C#, Java
 - **Core knowledge:** Networking and database fundamentals
 
 ## Projects

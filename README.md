@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ammar 👋
 
-<!--
-**Ammaryaser1/Ammaryaser1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Assiut, Egypt, learning mobile and web development.
 
-Here are some ideas to get you started:
+## What I'm working with
+- 📱 Flutter & Dart - mobile UI apps
+- 🤖 Android (Kotlin)
+- 🌐 HTML & CSS - small websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects
+- [facebook](https://github.com/Ammaryaser1/facebook) - Facebook UI clone in Flutter
+- [whatsapp](https://github.com/Ammaryaser1/whatsapp) - WhatsApp UI clone in Flutter
+- [Akio](https://github.com/Ammaryaser1/Akio) - Arabic video-editing portfolio site
+- [oop2](https://github.com/Ammaryaser1/oop2) - Dart OOP practice

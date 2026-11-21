@@ -1,6 +1,6 @@
 # Hi, I'm Ammar 👋
 
-I'm a developer from Assiut, Egypt, learning mobile and web development.
+I'm originally from Alexandria, Egypt, and a fourth-year IT student at the Egyptian German Technological College (Assiut International University of Technology) in Assiut, studying networks and databases..
 
 ## What I'm working with
 - 📱 Flutter & Dart - mobile UI apps
